@@ -1,0 +1,10 @@
+apt install tesseract-ocr-eng
+apt install python3-tesserocr
+
+pip3 install numpy opencv-python
+pip3 install imutils
+pip3 install pytesseract
+pip3 install pillow
+pip3 install pyspellchecker
+pip3 install yandex-translater
+
